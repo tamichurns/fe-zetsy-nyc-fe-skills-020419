@@ -1,8 +1,11 @@
 /*////////////// Fonts //////////////*/
 
 @font-face {
-	font-family: 'Baskerville';
-	src: url(../fonts/Baskerville.ttc);
+  font-family: 'Product Sans';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Product Sans Thin Italic'), local('ProductSans-ThinItalic'), url(https://fonts.gstatic.com/s/productsans/v9/pxifypQkot1TnFhsFMOfGShVEu_vWEpkr0SqrvJ3iA.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
 }
 
 /*////////// Global Styles //////////*/
